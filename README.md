@@ -13,7 +13,7 @@ A lightweight Windows utility that checks your Todoist for tasks labeled with a 
 
 ## 🛠 Requirements
 
-- Windows 10/11
+- Windows 10 or 11
 - [.NET 7.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime)
 - A [Todoist account](https://todoist.com)
 - Your Todoist API token
