@@ -50,4 +50,3 @@ To run the app automatically every time you log into Windows, **execute `create-
 
 - Prompts for admin permissions (required to register the task in Windows Task Scheduler)
 - Register a scheduled task named "Todoist context notifier"
-- Configure it to run with highest privileges
