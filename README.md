@@ -52,8 +52,8 @@ Before setting up Task Scheduler, you can test the app manually to make sure eve
    - A Windows notification should appear showing the number of matching Todoist tasks.
    - Clicking the notification will open your browser with the filtered task list.
 4. If nothing happens or you see an error, double-check:
-   - Your ApiKey is correct (from Todoist developer settings).
-   - The Label matches an existing label (no @ symbol).
+   - Your `ApiKey` is correct (from Todoist developer settings).
+   - The `Label` matches an existing label (no `@` symbol).
    - You have tasks in Todoist with that label.
 
 Once confirmed, proceed to set it up to run automatically using Task Scheduler.
